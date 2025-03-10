@@ -1,0 +1,33 @@
+div {
+    border: 3px solid black;
+  }
+  .heading {
+    background: green;
+    width: 98%;
+    height: 200px;
+    margin-bottom: 30px;
+    border: 3px solid black;
+  }
+  section{
+    margin-bottom: 30px;
+  }
+  .col {
+    height:200px;
+    width:32%;
+    display: inline-block;
+    margin: 2px;
+  }
+  img {
+    width: 100%;
+    height: inherit;
+  }
+  .col-left {
+    background-color: orange;
+  }
+  .col-mid {
+    background-color: red;
+  }
+  .col-right {
+    background-color: blue;
+  }
+  

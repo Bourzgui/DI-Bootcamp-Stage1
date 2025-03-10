@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+    body {
+    margin-left: 10px;
+    }
+    div {
+    border: 3px solid black;
+    }
+    .col {
+    height:400px;
+    width:32%;
+    margin-left:1%;
+    display: inline-block;
+    }
+    .heading {
+    background: purple;
+    width: 98.5%;
+    height: 200px;
+    margin-bottom: 30px;
+    }
+    .col-left {
+    background-color: maroon;
+    margin-left: 0;
+    }
+    .col-mid {
+    background-color: lightgreen;
+    }
+    .col-right {
+    background-color: orange;
+    }
+    
